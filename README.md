@@ -25,4 +25,3 @@
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://azimkhan-abdulkhanov-6ab0b6314)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://abdulkhanov__a)
-[![telegram](https://skillicons.dev/icons?i=telegram)](https://azimxan)
