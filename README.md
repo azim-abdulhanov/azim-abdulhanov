@@ -8,7 +8,7 @@
 
 ## My Skills - Technologies I use
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,mongodb,git,github)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,vue,tailwind,materialui,nodejs,mongodb,git,github)
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,vscode,bash,figma)
 
 ## 🏆 Github status
