@@ -23,5 +23,5 @@
 
 ## Connect with me:
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.instagram.com/abdulkhanov__a) 
-[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.linkedin.com/in/azimkhan-abdulkhanov-6ab0b6314/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/azimkhan-abdulkhanov-6ab0b6314/) 
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/abdulkhanov__a)
