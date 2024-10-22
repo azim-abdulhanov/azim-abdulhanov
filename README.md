@@ -18,8 +18,8 @@
 
 ## 🌟 Most Used Weapons
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=azim-abdulhanov&show_icons=true&locale=e&layout=compact&theme=tokyonight)
-![github_graph](https://github-readme-avtivity-graph.vercel.app/api/graph?username=azim-abdulhanov&theme=react-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=azim-abdulhanov&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![github_graph](https://github-readme-activity-graph.vercel.app/graph?username=azim-abdulhanov&theme=react-dark)
 
 ## Connect with me:
 
