@@ -1,39 +1,13 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Azimxan Abdulhanov! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master.wave.gif" width="30px" height="30px">
 
-###
+I'm currently working as Sammi Experience
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+I'm currently learning **Next.js - Backend**
 
-###
+I'm looking to collaborate on open source/commercial projects
 
-<h2 align="left">About me</h2>
+## My Skills - Technologies I use
 
-###
+! [My Skills] (https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,mongodb,git,github,versel,netlify)
+! [My Skills] (https://skillicons.dev/icons?i=html,css,sass,bootstrap,vscode,bash,figma)
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
